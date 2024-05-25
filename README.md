@@ -43,7 +43,7 @@ Body:
 
 - Get All Users:
 
-Method: GET
+- Method: GET
 URL: /api/users
 Get Single User by ID
 
@@ -61,22 +61,22 @@ Body:
 
 - Delete User by ID:
 
-Method: DELETE
+- Method: DELETE
 URL: /api/users/:userId
 Add Friend
 
-Method: POST
+- Method: POST
 URL: /api/users/:userId/friends/:friendId
 Remove Friend
 
-Method: DELETE
+- Method: DELETE
 URL: /api/users/:userId/friends/:friendId
 
 ### Thoughts
 
 Create a New Thought:
 
-Method: POST
+- Method: POST
 URL: /api/thoughts
 Body:
 {
@@ -87,15 +87,15 @@ Body:
 
 Get All Thoughts:
 
-Method: GET
+-Method: GET
 URL: /api/thoughts
 Get Single Thought by ID
 
-Method: GET
+- Method: GET
 URL: /api/thoughts/:thoughtId
 Update Thought by ID
 
-Method: PUT
+- Method: PUT
 URL: /api/thoughts/:thoughtId
 Body:
 {
@@ -104,11 +104,11 @@ Body:
 
 Delete Thought by ID:
 
-Method: DELETE
+- Method: DELETE
 URL: /api/thoughts/:thoughtId
 Add Reaction to Thought
 
-Method: POST
+- Method: POST
 URL: /api/thoughts/:thoughtId/reactions
 Body:
 {
@@ -118,7 +118,7 @@ Body:
 
 Remove Reaction from Thought:
 
-Method: DELETE
+- Method: DELETE
 URL: /api/thoughts/:thoughtId/reactions/:reactionId
 
 ## Technologies Used
