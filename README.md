@@ -87,7 +87,7 @@ Body:
 
 Get All Thoughts:
 
--Method: GET
+- Method: GET
 URL: /api/thoughts
 Get Single Thought by ID
 
