@@ -123,27 +123,27 @@ URL: /api/thoughts/:thoughtId/reactions/:reactionId
 
 ## Technologies Used
 
-Node.js: JavaScript runtime built on Chrome's V8 JavaScript engine.
-Express.js: Web application framework for Node.js.
-MongoDB: NoSQL database for storing data.
-Mongoose: ODM for MongoDB to interact with the database.
-Nodemon: Utility to monitor for any changes in the source and automatically restart the server.
-Postman: API client to test API endpoints.
+- Node.js: JavaScript runtime built on Chrome's V8 JavaScript engine.
+- Express.js: Web application framework for Node.js.
+- MongoDB: NoSQL database for storing data.
+- Mongoose: ODM for MongoDB to interact with the database.
+- Nodemon: Utility to monitor for any changes in the source and automatically restart the server.
+- Postman: API client to test API endpoints.
 
 ## Dependencies
 
-express: Fast, unopinionated, minimalist web framework for Node.js.
-mongoose: Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js.
-nodemon: Utility that monitors for any changes in your source and automatically restarts your server.
+- express: Fast, unopinionated, minimalist web framework for Node.js.
+- mongoose: Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js.
+- nodemon: Utility that monitors for any changes in your source and automatically restarts your server.
 
 ## Resources
 
-Express.js Documentation: Express.js
-MongoDB Documentation: MongoDB
-Mongoose Documentation: Mongoose
-Node.js Documentation: Node.js
-Nodemon Documentation: Nodemon
-Postman Documentation: Postman
+- Express.js Documentation: Express.js
+- MongoDB Documentation: MongoDB
+- Mongoose Documentation: Mongoose
+- Node.js Documentation: Node.js
+- Nodemon Documentation: Nodemon
+- Postman Documentation: Postman
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
