@@ -33,7 +33,7 @@ Use Postman or a similar API client to test the API endpoints. Ensure MongoDB is
 
 Create a New User
 
-Method: POST
+- Method: POST
 URL: /api/users
 Body:
 {
@@ -41,17 +41,17 @@ Body:
   "email": "newuser@example.com"
 }
 
-Get All Users:
+- Get All Users:
 
 Method: GET
 URL: /api/users
 Get Single User by ID
 
-Method: GET
+- Method: GET
 URL: /api/users/:userId
 Update User by ID
 
-Method: PUT
+- Method: PUT
 URL: /api/users/:userId
 Body:
 {
@@ -59,7 +59,7 @@ Body:
   "email": "updateduser@example.com"
 }
 
-Delete User by ID:
+- Delete User by ID:
 
 Method: DELETE
 URL: /api/users/:userId
