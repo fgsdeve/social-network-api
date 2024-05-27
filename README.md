@@ -16,7 +16,7 @@ This is an API for a social network web application where users can share their 
 
 1. Clone the repository:
    ```bash
-   git clone https://git@github.com:fgsdeve/social-network-api.git.
+   git clone https://git@github.com:fgsdeve/social-network-api.git. tutorial video https://drive.google.com/file/d/1TGJf20U-baaEk84j2ueAbizA7Pz_gvaD/view?usp=sharing.
    cd social-network-api.
 
 2. Install dependencies: npm install, install express mongoose, install nodemon --save-dev.
